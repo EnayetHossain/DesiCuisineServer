@@ -1,0 +1,56 @@
+[
+  {
+    "chefId": "1",
+    "chefPic": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Chef Masuda Begum",
+    "likes": 1320,
+    "recipes": 3,
+    "chefExperience": 1,
+    "bio": "Chef Masuda Begum is a Bangladeshi chef who has been cooking traditional Bangladeshi dishes for over 20 years. She is known for her expertise in preparing popular dishes such as biryani, dal, and fish curry. Chef Begum learned to cook from her mother and grandmother and has been passionate about preserving the traditional flavors of Bangladeshi cuisine.\r\n"
+  },
+  {
+    "chefId": "2",
+    "chefPic": "https://images.unsplash.com/photo-1667515401823-84b990293a11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Chef Nafisa Rahman",
+    "likes": 3520,
+    "recipes": 3,
+    "chefExperience": 5,
+    "bio": "Chef Nafisa Rahman is a young and talented Bangladeshi chef who has quickly gained popularity for her creative and modern take on traditional Bangladeshi dishes. She is the owner and head chef of a popular restaurant in Dhaka, where she experiments with different ingredients and techniques to create unique and flavorful dishes.\r\n"
+  },
+  {
+    "chefId": "3",
+    "chefPic": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Chef Khadiza Akter",
+    "likes": 1520,
+    "recipes": 3,
+    "chefExperience": 5,
+    "bio": "Chef Khadiza Akter is a Bangladeshi chef who specializes in cooking seafood dishes. She grew up in a coastal town and learned to cook seafood from her father, who was a fisherman. Chef Akter is known for her ability to cook a variety of fish dishes using different cooking techniques and spices to bring out the best flavors of the fish.\r\n"
+  },
+  {
+    "chefId": "4",
+    "chefPic": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+    "chefName": "Chef Monirul Islam",
+    "likes": 2520,
+    "recipes": 3,
+    "chefExperience": 1,
+    "bio": "Chef Monirul Islam is a Bangladeshi chef who has worked in several prestigious restaurants around the world. He has a passion for cooking traditional Bangladeshi dishes using modern techniques and presentation styles. Chef Islam is known for his attention to detail and his ability to elevate simple ingredients to create complex and delicious flavors.\r\n"
+  },
+  {
+    "chefId": "5",
+    "chefPic": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Chef Farzana Begum",
+    "likes": 150,
+    "recipes": 3,
+    "chefExperience": 2,
+    "bio": "Chef Farzana Begum is a Bangladeshi chef who has been cooking traditional Bangladeshi dishes for over 30 years. She is known for her expertise in cooking vegetarian dishes using a variety of vegetables and lentils. Chef Begum has won several awards for her cooking and is a strong advocate for promoting Bangladeshi cuisine worldwide.\r\n"
+  },
+  {
+    "chefId": "6",
+    "chefPic": "https://images.unsplash.com/photo-1543876020-fa0e86833073?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chefName": "Chef Mahbuba Ferdous",
+    "likes": 520,
+    "recipes": 3,
+    "chefExperience": 4,
+    "bio": "Chef Mahbuba Ferdous is a Bangladeshi chef who is known for her creative and flavorful desserts. She owns a dessert shop in Dhaka where she creates unique desserts using traditional Bangladeshi ingredients and flavors. Chef Ferdous is passionate about preserving the rich culinary heritage of Bangladesh and is constantly experimenting with new ingredients and techniques to create innovative desserts.\r\n"
+  }
+]
